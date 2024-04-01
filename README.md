@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/8c/b4/88/8cb48892e3fa929efdab85b19eb31c90.gif)
-[![MasterHead](https://i.pinimg.com/originals/8c/b4/88/8cb48892e3fa929efdab85b19eb31c90.gif)
+
 
 <h1 align="center">Hi 👋, I'm Mohd Anash Khan</h1>
 <h3 align="center">A passionate Software devolper from India</h3>
