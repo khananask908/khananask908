@@ -5,7 +5,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohd Anash Khan</h1>
 <h3 align="center">A passionate Software devolper from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&background=3728FF00&center=true&vCenter=true&width=500&height=80&lines=System.out.println(%22I+AM+A+PROGRAMMER%22);System.out.print(%22IMPROVING+BIT+BY+BIT%22);Printf(%22I+AM+A+iOS+DEVELOPER%22);Cout(%22Android+Developer%22)">
+</h1>
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khananask908&label=Profile%20views&color=0e75b6&style=flat" alt="khananask908" /> </p>
@@ -38,5 +41,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khananask908&" alt="khananask908" /></p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Omveer99&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
