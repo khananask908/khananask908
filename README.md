@@ -1,3 +1,6 @@
+<p align="center"> 
+ ✨<br>𝑻𝒉𝒆 𝒓𝒐𝒂𝒅 𝒕𝒐 𝒘𝒊𝒔𝒅𝒐𝒎? - 𝑾𝒆𝒍𝒍, 𝒊𝒕'𝒔 𝒑𝒍𝒂𝒊𝒏 𝒂𝒏𝒅 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒐 𝒆𝒙𝒑𝒓𝒆𝒔𝒔: 𝑬𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒈𝒂𝒊𝒏 𝒃𝒖𝒕 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔.<br>🖥️
+</p>
 
 <h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
 
@@ -5,14 +8,34 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjYTZoZDRrNzU0ems4am50YzhpcHFuMjRhZzdheHE4aDlvb3U0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
+
+
+<p align="center"> 
+  
+  <a href="https://www.linkedin.com/in/aryan-upa/">
+  <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
+  <a href="https://twitter.com/aryanupa"><img align="left" alt= "Aryan Upadhyay | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
+  <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
+  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
+  <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://www.instagram.com/aryan.upa/"> 
+    <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
+  <br> <br>
+  <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/358d2d130429583e52b6910bd9f493a482e4244f/uploads/GitBanner.gif">
+</p>
+
+
+```
+- 👋 Hi, I’m Mohd Anash khan
+- 👀 I’m interested in Computers and Sciences.
+- 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
+- 🏫 I'm currently studying DSA And AI technolgoies.
+- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
+- 📫 You can reach me khananask908@gmail.com 
+```
+
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
-[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:guopatrick.correspondence@gmail.com)
-[<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/patrickguo/)
-[<img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">](https://www.datacamp.com/profile/shpatrickguo)
-[<img src="img/tableau.png" width="100" title="tableau">](https://public.tableau.com/app/profile/patrick.guo)
-[<img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">](https://www.hackerrank.com/guopatrick)
-[<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="200" title="kaggle">](https://www.kaggle.com/shpatrickguo)
 
 <p align="left">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
@@ -23,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100px" title="django">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100px" title="postgresql">
 </p>
-<!-- Other Tools
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
@@ -36,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb">
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
--->
+
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
 </p>
