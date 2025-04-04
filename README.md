@@ -10,19 +10,6 @@
 
 
 
-<p align="center"> 
-  
-  <a href="https://www.linkedin.com/in/aryan-upa/">
-  <img align="left" alt="Aryan's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> </a>
-  <a href="https://twitter.com/aryanupa"><img align="left" alt= "Aryan Upadhyay | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" /> </a>
-  <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
-  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
-  <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="https://www.instagram.com/aryan.upa/"> 
-    <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
-  <br> <br>
-  
-</p>
 
 
 ```
