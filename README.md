@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/aryan.upa/"> 
     <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
   <br> <br>
-  <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/358d2d130429583e52b6910bd9f493a482e4244f/uploads/GitBanner.gif">
+  
 </p>
 
 
@@ -34,9 +34,10 @@
 - 📫 You can reach me khananask908@gmail.com 
 ```
 
+
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
-
+<!--
 <p align="left">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
@@ -59,6 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb">
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
+  -->
 
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
