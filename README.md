@@ -12,7 +12,7 @@
 > <b>•	Motivated MERN stack developer specializing in building scalable full-stack web applications with hands-on experience in cloud technologies like AWS. Proven success in delivering innovative projects and contributing to hackathons, with a keen ability to seamlessly manage front and backend development.</b>\
 
 ## 🛠️ Tech Stack:
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nsbp;
+
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
