@@ -9,7 +9,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> <b>•	Motivated MERN stack developer specializing in building scalable full-stack web applications with hands-on experience in cloud technologies like AWS. Proven success in delivering innovative projects and contributing to hackathons, with a keen ability to seamlessly manage front and backend development.</b>\
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
