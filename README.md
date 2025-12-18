@@ -5,8 +5,8 @@
 <h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjYTZoZDRrNzU0ems4am50YzhpcHFuMjRhZzdheHE4aDlvb3U0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width=500px title="Hi, nice to meet you!">
-</p>
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjYTZoZDRrNzU0ems4am50YzhpcHFuMjRhZzdheHE4aDlvb3U0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width=500px title="Hi, nice to meet you!">
+</p> -->
 
 
 
