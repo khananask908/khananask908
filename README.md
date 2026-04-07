@@ -24,7 +24,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```bash
 npx anash
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/khananask908)**
+**👆 This command line tool can be found at [npx anash](https://github.com/khananask908)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
